@@ -18,7 +18,7 @@ Turning data into insights, models into predictions, and ideas into practical so
 Hi! I'm Mohammad Ali SK, an aspiring Data Scientist interested in using data analytics, machine learning, and software development to solve practical problems.
 I enjoy exploring datasets, identifying patterns, building predictive models, creating interactive dashboards, and developing applications that turn technical ideas into useful products.
 - 🎓 Education: Bachelor of Computer Applications (BCA)
-- 🏫 University: Amity University Online
+- 🏫 University: Amity University
 - 📍 Location: West Bengal, India
 - 📊 Interests: Data Science, Data Analytics, Machine Learning, and Predictive Modeling
 - 🛠️ Approach: Learning by building practical, project-driven solutions
